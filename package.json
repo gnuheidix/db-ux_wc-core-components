@@ -1,0 +1,16 @@
+{
+  "name": "dbux-wc-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@db-ux/wc-core-components": "6.1.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}

@@ -1,0 +1,3 @@
+@layer whitelabel-theme, db-ux;
+@import '@db-ux/core-foundations/build/styles/theme/rollup.css' layer(whitelabel-theme);
+@import '@db-ux/core-components/build/styles/bundle.css' layer(db-ux);
