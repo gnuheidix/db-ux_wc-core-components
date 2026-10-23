@@ -8,7 +8,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@db-ux/wc-core-components": "6.1.0"
+    "@db-ux/wc-core-components": "latest"
   },
   "devDependencies": {
     "vite": "^7.0.0"
